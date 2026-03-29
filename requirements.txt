@@ -1,0 +1,13 @@
+# Web / API (Async-First)
+fastapi
+uvicorn
+flask-cors
+
+# LLM & RAG Engine
+openai
+faiss-cpu
+torch
+transformers
+numpy
+tqdm
+flask-limiter
