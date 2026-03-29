@@ -1,4 +1,4 @@
-# AIFT Search — Kurumsal Bilgi Erişim Sistemi
+# AIFT — Bilgi Erişim Sistemi
 
 AIFT Search, yerel bir bilgi tabanı üzerinden (RAG) yüksek doğruluklu yanıtlar sunan bir veri analiz sistemidir.
 
