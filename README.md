@@ -7,7 +7,6 @@ AIFT Search, yerel bir bilgi tabanı üzerinden (RAG) yüksek doğruluklu yanıt
 - **Vektör Tabanlı Arama (RAG):** FAISS ve BGE-M3 (BAAI) modelleri ile milisaniye bazında anlamsal arama.
 - **Asenkron Mimari (FastAPI):** Çoklu kullanıcı desteği ve I/O operasyonlarında sıfır bloklama.
 - **Gerçek Zamanlı Streaming:** Server-Sent Events (SSE) teknolojisi ile yanıtları anlık olarak iletir (TTFT < 1s).
-- **Kurumsal UI:** Dark-mode glassmorphism temalı, modern ve kullanıcı dostu arayüz.
 - **Güvenlik (Guardrails):** Prompt injection ve unauthorized instruction saldırılarına karşı koruma katmanı.
 - **100% Local:** Verileriniz asla yerel ağınız dışına çıkmaz.
 
